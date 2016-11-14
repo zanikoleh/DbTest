@@ -1,1 +1,0 @@
-CREATE VIEW View1
